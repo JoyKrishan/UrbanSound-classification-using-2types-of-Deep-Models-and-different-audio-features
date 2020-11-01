@@ -46,10 +46,15 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
 
 ### Augmentation
 * Time Stretch : In this technique, we slow down or speed up the sound clips with a rate of 0.9 and 1.1.  In this way, we couldgenerate more 17464 new audio clips for our augmented dataset.
+
 ![Time Stretch](https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/Time%20Stretch.PNG)
+
 * Pitch Shift : The factors of {-2, +2} are used to raise and lower the pitch (in semitones) of an audio sample in the dataset through which we could create 17464 samples using pitch shift.
+
 ![Pitch Shift](https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/pitch_shift.PNG)
+
 * Pitch Shift along with Time Stretch : In this augmentation step, a sound clip is manipulated using both pitch shift and time stress to generate a total of 34928 novel audio clips.
+
 ![Pitch Shift and Time Stretch](https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/Time%20stretech%20and%20Pitch.PNG)
 
 
