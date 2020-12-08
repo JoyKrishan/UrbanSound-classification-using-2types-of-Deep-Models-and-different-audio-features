@@ -1,6 +1,5 @@
-#### *This repo contains my undergraduate thesis work*
 
-### Thesis Topic:
+### Research Topic:
 Urban Sound Classification Using Convolutional Neural Network and Long Short Term Memory Based on Multiple Features
 
 ### Dataset: 
