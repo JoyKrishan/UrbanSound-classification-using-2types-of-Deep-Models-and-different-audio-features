@@ -65,4 +65,10 @@ The table below shows the max accuracy of the models on different types of featu
 | CNN   | 96.5% |
 | LSTM  | 98.81% |
 
+### Fundamental Libraries required before implementation
+Librosa and ffmpeg 
+```
+pip install librosa 
+pip install ffmpeg
+```
 
