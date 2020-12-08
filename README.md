@@ -71,4 +71,5 @@ Librosa and ffmpeg
 pip install librosa 
 pip install ffmpeg
 ```
-
+### For more information - [Click here to view our paper published in IEEE](https://ieeexplore.ieee.org/document/9268723/references#references) 
+**Cite this paper if you use the code and information from the paper** :smiley:
