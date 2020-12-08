@@ -1,6 +1,6 @@
 
 ### Research Topic:
-Urban Sound Classification Using Convolutional Neural Network and Long Short Term Memory Based on Multiple Features
+[Urban Sound Classification Using Convolutional Neural Network and Long Short Term Memory Based on Multiple Features](https://ieeexplore.ieee.org/document/9268723/references#references)
 
 ### Dataset: 
 [Urban Sound Classification](https://urbansounddataset.weebly.com/urbansound8k.html). For detailed explaination about the dataset and the methods used to clean and compile it please read this [paper](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf).
