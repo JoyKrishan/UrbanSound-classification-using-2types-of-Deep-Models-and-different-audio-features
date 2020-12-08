@@ -59,5 +59,13 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
 
 ### Results
 
+The table below shows the max accuracy of the models on different types of features used. 
+
+Model | Accuracy
+______|_________
+CNN   | 96.5%
+LSTM  | 98.81%
+
+
 
 
