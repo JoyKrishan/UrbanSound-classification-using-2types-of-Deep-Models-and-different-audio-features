@@ -62,10 +62,13 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
 The table below shows the max accuracy of the models on different types of features used. 
 
 | Model | Accuracy |
-| ______ | :______: |
+| ------ | :-----: |
 | CNN   | 96.5% |
 | LSTM  | 98.81% |
 
 
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
